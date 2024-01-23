@@ -41,4 +41,4 @@ jobs:
           app-name: 'jhalak'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD131DEF295649249879D3EAEBDAA1AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B68F7585D1004993B2F704DC57AEC130 }}
